@@ -1,6 +1,7 @@
 ## Exclude file used by compilators, interpreters, etc.
 */bin/*
 */gen/*
+*/target/*
 *.pyc
 
 ## Exclude Mac OS X files
